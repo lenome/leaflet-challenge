@@ -16,5 +16,5 @@ Suraj Thyagaraj
 ----------------------------
 ### Results
 <b>Part 1</b>
-![Part 1 Results](Leaflet-Step-1/Results_1.PNG)
+![Part 1 Results](Leaflet-Step-1/Results_1.png)
 
